@@ -1,4 +1,4 @@
-# Dappazon
+# OneCart
 
 ## Technology Stack & Tools
 
